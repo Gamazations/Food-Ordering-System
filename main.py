@@ -56,27 +56,6 @@ def saveFavoriteOrder():
   file.write(orderForFile + "\n")
   file.close()
 
-'''
-CITATIONS:
-Title: Read a file line by line in Python
-Author: www.geeksforgeeks.org
-Date: April 16th, 2025
-Code Version: Python
-Availability: https://www.geeksforgeeks.org/read-a-file-line-by-line-in-python/
-
-Title: Python String replace() Method
-Author: www.geeksforgeeks.org
-Date: April 16th, 2025
-Code Version: Python
-Availability: https://www.geeksforgeeks.org/python-string-replace/
-
-Title: Python String split()
-Author: www.geeksforgeeks.org
-Date: April 16th, 2025
-Code Version: Python
-Availability: https://www.geeksforgeeks.org/python-string-split/
-'''
-
 #Used to show the favorite orders priorly or set new ones
 def favoriteOrders():
   #First tries to read the file and saves the files contents to a variable
