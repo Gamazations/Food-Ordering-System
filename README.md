@@ -1,2 +1,2 @@
-# Interactive-Food-Ordering
+# Food Ordering Sytem
 Developed alongside a fellow peer an interactive food ordering system that saves favorited orders, etc. The program is modular, using functions like subtotalCalculator(), saveFavoriteOrder(), favoriteOrders(), and foodOrder() to structure logic cleanly. It includes error handling for missing files and input checks, providing a user-friendly experience. The use of file I/O allows for persistent storage of favorite orders across sessions.
